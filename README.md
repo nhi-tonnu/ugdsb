@@ -1,2 +1,2 @@
 # ugdsb
-UGDSB Elementary Theme (2016-2022)
+UGDSB Elementary Theme (2016-2023)
